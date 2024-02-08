@@ -42,11 +42,11 @@ social:
   # email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/c_r_simmons      # change to your twitter homepage
+    - https://www.linkedin.com/in/colinrsimmons
     - https://github.com/crsimmons       # change to your github homepage
+    - https://twitter.com/c_r_simmons      # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/colinrsimmons
 
 google_site_verification:               # fill in to your verification string
 
@@ -189,6 +189,7 @@ exclude:
   - gulpfile.js
   - node_modules
   - package*.json
+  - scripts
 
 jekyll-archives:
   enabled: [categories, tags]
